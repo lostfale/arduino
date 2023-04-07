@@ -6,8 +6,6 @@ const int ledPin3 = 6;
 const int ledPin4 = 9;
 const int ledPin5 = 10;
 const int ledPin6 = 11;
-
-
 int ledState1 = LOW;  
 int ledState2 = LOW;
 int ledState3 = LOW;
